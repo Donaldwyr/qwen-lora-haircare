@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.cache/
+deepseek-lora-output/
+*.bin
+*.safetensors
+.venv/
+env/
+.DS_Store
